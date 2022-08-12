@@ -28,7 +28,7 @@
 
 - :telescope: I’m working as a Full Stack Web Engineer and contributing to Wordpress core, Gutenberg , open verse and many other domains of the WordPress.
 
-- :seedling: Exploring the MERN stack, SOlidity and Web-3 concepts.
+- :seedling: Exploring the MERN stack, Solidity and Web-3 concepts.
 
 - :zap: In my free time, I play guitar , listining to songs ,solving problems on the Hackerrank and learning new concepts.
 
