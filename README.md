@@ -32,7 +32,7 @@
 
 - :zap: In my free time, I play guitar , listining to songs ,solving problems on the Hackerrank and learning new concepts.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on:  [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on:  [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
 
 ---
 
