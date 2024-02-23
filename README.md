@@ -65,7 +65,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
       Bootstrap
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
       <br/>
       Tailwind CSS
     </td>
