@@ -136,7 +136,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
       <br/>
-      Redux
+      Mark down
     </td>
   </tr>
 </table>
