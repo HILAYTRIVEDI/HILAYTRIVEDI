@@ -9,6 +9,13 @@
   <a href="https://www.instagram.com/hilaytrivedi24/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+   <a href="mailto:hilaytrivedi1224@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<div align="center">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=HILAYTRIVEDI.HILAYTRIVEDI"/>
 </div>
 
 <h1 align="center">
@@ -29,119 +36,41 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :hammer_and_wrench: Languages and Tools
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-      <br/>
-      Git
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
-      <br/>
-      WordPress
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-      <br/>
-      React
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-      <br/>
-      Next.js
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
-      <br/>
-      Material UI
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-      <br/>
-      Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
-      <br/>
-      Tailwind CSS
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-      <br/>
-      CSS3
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-      <br/>
-      HTML5
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-      <br/>
-      JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-      <br/>
-      Firebase
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-      <br/>
-      MySQL
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-      <br/>
-      Git
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
-      <br/>
-      GraphQL
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>
-      <br/>
-      Gulp
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-line-wordmark.svg" title="Grunt" alt="Grunt" width="40" height="40"/>
-      <br/>
-      Grunt
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
-      <br/>
-      npm
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-      <br/>
-      PHP
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-      <br/>
-      Redux
-    </td>
-    <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-      <br/>
-      Mark down
-    </td>
-  </tr>
-</table>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mui" />
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=scss" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=php" />
+</div>
 
 ---
+
+### My Contributions
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 ### :fire: My Stats
 
