@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
-</div>
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hilay-trivedi-493b121b1/">
@@ -32,6 +31,12 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring the MERN stack, Solidity, and Web-3 concepts.
 - :zap: In my free time, I play guitar, listen to songs, solve problems on Hackerrank, and learn new concepts.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
+
+-----
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhamukherjee321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
