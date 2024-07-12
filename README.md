@@ -48,6 +48,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://skillicons.dev/icons?i=typescript" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
     <br>
     <img src="https://skillicons.dev/icons?i=mui" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
