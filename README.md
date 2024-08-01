@@ -32,14 +32,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I play guitar, listen to songs, solve problems on Hackerrank, and learn new concepts.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
 
------
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subhamukherjee321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
 ### :hammer_and_wrench: Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" />
