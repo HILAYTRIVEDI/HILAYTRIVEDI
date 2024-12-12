@@ -76,13 +76,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <tr>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=HILAYTRIVEDI&theme=highcontrast" alt="GitHub Streak"/>
+         <img src="https://streak-stats.demolab.com?user=HILAYTRIVEDI&theme=highcontrast&mode=weekly&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HILAYTRIVEDI&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-      </a>
+       <a href="https://git.io/streak-stats">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HILAYTRIVEDI&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+       </a>
     </td>
   </tr>
 </table>
