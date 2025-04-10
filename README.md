@@ -75,7 +75,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <table align="center">
   <tr>
     <td align="center">
-         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="HILAYTRIVEDI's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/HILAYTRIVEDI?cardType=github&theme=github-dark&preferLogin=false" />  </a>
+           <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="HILAYTRIVEDI's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/HILAYTRIVEDI?cardType=level&preferLogin=false" />  </a>
     </td>
     <td align="center">
        <a href="https://git.io/streak-stats">
