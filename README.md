@@ -58,6 +58,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://skillicons.dev/icons?i=wordpress" />
     <br>
     <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4"/>
 </div>
 
 ---
