@@ -66,13 +66,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### My Contributions
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
-</div>
-
 ### :fire: My Stats
 
 <!-- Statistics: Commit series -->
