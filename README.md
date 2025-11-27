@@ -66,6 +66,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
+### Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=HILAYTRIVEDI&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### :fire: My Stats
 
 <!-- Statistics: Commit series -->
