@@ -28,15 +28,17 @@
 
 ### :man_technologist: About Me
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I build multi-agent AI systems and ship them to production. My AI trajectory started pre-LLM era, face recognition and ML internships, and has since accelerated into solo-built SaaS products using LangGraph, RAG pipelines, and the Claude and Gemini APIs.
 
-- :telescope: I’m working as a Full Stack Web Engineer and contributing to Wordpress core, Gutenberg, open verse, and many other domains of WordPress.
-- :seedling: Exploring the MERN stack, Solidity, and Web-3 concepts.
-- :zap: In my free time, I play guitar, listen to songs, solve problems on Hackerrank, and learn new concepts.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HilayTrivedi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hilay-trivedi-493b121b1/) or you can mail me on: [![Gmail Badge](https://img.shields.io/badge/-HilayTrivedi-important?style=flat&logo=Gmail&logoColor=white)](mailto:hilaytrivedi1224@gmail.com)
+- :briefcase: Senior Software Engineer at **rtCamp** (WordPress VIP Gold Agency) since 2023, owning full engineering lifecycles for fintech, university, and large-scale media platforms. Currently building a persistent AI memory layer used across projects, and driving a company-wide AI framework adoption.
+- :speech_balloon: WordPress Core contributor and Gutenberg/Meta contributor — proposing a Unified AI Management Layer for WordPress Core, with 8 patches accepted across Core SVN and 2 Meta SVN changesets. Spoke on Core AI UX at WordCamp Asia 2026.
+- :robot: Solo-built AI products: **Advoksha** (multi-agent legal AI with LangGraph orchestration across Supervisor-Researcher-Linguistic Hub-Drafter roles), **CreatorNexus AI** (causal knowledge graph research SaaS with Stripe billing, live in production), **HilayOS** (personal intelligence OS with three-tier token optimization), and **Blog-to-Shots** (blog-to-video pipeline using Remotion + Gemini).
+- :seedling: Also building **Tower of Agents**, a personal three-layer governed multi-agent architecture (Neo4j/GraphRAG + LangGraph governance + MCP execution layer).
+- :mortar_board: B.Tech in Computer Engineering (CGPA 9.6/10), currently pursuing an Executive Diploma in Machine Learning and AI from IIIT Bangalore.
+- :guitar: In my free time, I play guitar, listen to music, and solve problems on HackerRank.
 
 ### :hammer_and_wrench: Languages and Tools
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=javascript" />
@@ -44,24 +46,22 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=threejs" />
-    <br>
     <img src="https://skillicons.dev/icons?i=mui" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=scss" />
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <br>
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=redux" />
     <img src="https://skillicons.dev/icons?i=python" />
-    <br>
     <img src="https://skillicons.dev/icons?i=nextjs" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=wordpress" />
-    <br>
     <img src="https://skillicons.dev/icons?i=php" />
     <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4"/>
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+    <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
 </div>
 
 ---
