@@ -178,7 +178,7 @@ and UX consistently across WordPress. Spoke on Core AI UX at **WordCamp Asia 202
 ## 3D Contribution Graph
 
 <div align="center">
-<img width="100%" src="./profile-3d-contrib/0-profile-night-view.svg" alt="3D contribution graph"/>
+<img width="100%" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/main/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph"/>
 </div>
 
 ---
@@ -206,11 +206,17 @@ and UX consistently across WordPress. Spoke on Core AI UX at **WordCamp Asia 202
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/WordCamp_Asia_2026-Speaker-D54E21?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordCamp_Ahmedabad_2025-Demo-3858E9?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress_Core-Contributor-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/B.Tech_CGPA-9.6%2F10-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/IIIT_Bangalore-ML_%26_AI_Diploma-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Core_SVN-8_patches-FF4B4B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=HILAYTRIVEDI&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
 
 </div>
 
