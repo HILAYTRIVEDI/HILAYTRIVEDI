@@ -23,6 +23,8 @@
 
 ## `> whoami`
 
+[![Certified Thinker](https://meatproxy.me/badge/c/da8aa.svg)](https://meatproxy.me/c/da8aa)
+
 ```yaml
 name: Hilay Trivedi
 role: Senior Software Engineer @ rtCamp (WordPress VIP Gold Agency)
